@@ -1,0 +1,14 @@
+D:\FACULDADE\FACULDADE 3°P\Programação1\Aula1204Exercicio\Aula1204Exercicio\bin\Debug\Aula1204Exercicio.exe.config
+D:\FACULDADE\FACULDADE 3°P\Programação1\Aula1204Exercicio\Aula1204Exercicio\bin\Debug\Aula1204Exercicio.exe
+D:\FACULDADE\FACULDADE 3°P\Programação1\Aula1204Exercicio\Aula1204Exercicio\bin\Debug\Aula1204Exercicio.pdb
+D:\FACULDADE\FACULDADE 3°P\Programação1\Aula1204Exercicio\Aula1204Exercicio\obj\Debug\Aula1204Exercicio.csproj.AssemblyReference.cache
+D:\FACULDADE\FACULDADE 3°P\Programação1\Aula1204Exercicio\Aula1204Exercicio\obj\Debug\Aula1204Exercicio.csproj.CoreCompileInputs.cache
+D:\FACULDADE\FACULDADE 3°P\Programação1\Aula1204Exercicio\Aula1204Exercicio\obj\Debug\Aula1204Exercicio.exe
+D:\FACULDADE\FACULDADE 3°P\Programação1\Aula1204Exercicio\Aula1204Exercicio\obj\Debug\Aula1204Exercicio.pdb
+E:\FACULDADE\FACULDADE 3°P\Programação1\Aula1204Exercicio\Aula1204Exercicio\bin\Debug\Aula1204Exercicio.exe.config
+E:\FACULDADE\FACULDADE 3°P\Programação1\Aula1204Exercicio\Aula1204Exercicio\bin\Debug\Aula1204Exercicio.exe
+E:\FACULDADE\FACULDADE 3°P\Programação1\Aula1204Exercicio\Aula1204Exercicio\bin\Debug\Aula1204Exercicio.pdb
+E:\FACULDADE\FACULDADE 3°P\Programação1\Aula1204Exercicio\Aula1204Exercicio\obj\Debug\Aula1204Exercicio.csproj.AssemblyReference.cache
+E:\FACULDADE\FACULDADE 3°P\Programação1\Aula1204Exercicio\Aula1204Exercicio\obj\Debug\Aula1204Exercicio.csproj.CoreCompileInputs.cache
+E:\FACULDADE\FACULDADE 3°P\Programação1\Aula1204Exercicio\Aula1204Exercicio\obj\Debug\Aula1204Exercicio.exe
+E:\FACULDADE\FACULDADE 3°P\Programação1\Aula1204Exercicio\Aula1204Exercicio\obj\Debug\Aula1204Exercicio.pdb
